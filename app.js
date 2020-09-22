@@ -8,7 +8,7 @@ var album = [
   {src: 'img/IMG_8232.JPG', msg: ''},
   {src: 'img/_MG_9139.JPG', msg: ''},
   {src: 'img/92880036.jpg', msg: ''},
-  {src: 'img/https://github.com/Shigeo-Kawai/skate-pic/commit/598526f572461f099319b31544616b42e01b1c47#diff-acdf9c760f1788217156b4174887b6d5', msg: ''},
+  {src: 'img/92880033.jpg', msg: ''},
   {src: 'img/_MG_1544.JPG', msg: ''},
   {src: 'img/_MG_1558.JPG', msg: ''},
   {src: 'img/_MG_9563.JPG', msg: ''},
